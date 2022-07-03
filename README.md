@@ -1,5 +1,5 @@
 ### Hi there 👋
-manuel-quintero.png
+[manuel-quintero.png](https://github.com/manuelefe25/manuelefe25/blob/main/manuel-quintero.png)
 <!--
 **manuelefe25/manuelefe25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
