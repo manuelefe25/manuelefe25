@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/manuelefe25/manuelefe25/blob/c293729947fd227b9284f7447665487790990381/manuel-quintero.png">
+<img src="https://github.com/manuelefe25/manuelefe25/blob/c293729947fd227b9284f7447665487790990381/manuel-quintero.png" width="350" title="Me">
 <!--
 **manuelefe25/manuelefe25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
